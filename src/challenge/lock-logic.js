@@ -29,7 +29,7 @@ function changeDialValue (index, incrementBy) {
   // the redirect function will only redirect if the lockState is unlocked
   if (wheelsMatchWithSecretCombo()) {
     lockState.locked = false
-    redirect('larry-lobster')
+    redirect('amar-yadav')
   }
 }
 
